@@ -1,8 +1,8 @@
--- Moonbow palette
+-- Moonbow palette (modified by abhamra)
 local M = {}
 M.colors = {
 	accent = "#fabd2f",
-	bg = "#0A0E14",
+	bg = "#121212",
 	fg = "#B3B1AD",
 	ui = "#4D5566",
 
@@ -19,8 +19,8 @@ M.colors = {
 	operator = "#fe8019",
 	error = "#cc241d",
 
-	line = "#00010A",
-	panel_bg = "#0D1016",
+	line = "#121212",
+	panel_bg = "#121212",
 	panel_shadow = "#00010A",
 	panel_border = "#000000",
 	gutter_normal = "#323945",
@@ -41,10 +41,10 @@ M.colors = {
 	fg_idle = "#3E4B59",
 	warning = "#fe8019",
 
-	dark0_hard = "#0A0E14",
+	dark0_hard = "#121212",
 	dark0 = "#282828",
 	dark0_soft = "#32302f",
-	dark1 = "#00010A",
+	dark1 = "#121212",
 	dark2 = "#504945",
 	dark3 = "#665c54",
 	dark4 = "#7c6f64",
